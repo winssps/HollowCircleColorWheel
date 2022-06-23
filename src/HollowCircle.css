@@ -16,7 +16,16 @@
     rgb(255, 0, 0) 100%
   ); */
 
-  background: conic-gradient(red, yellow, lime, aqua, blue, magenta, red);
+  background: conic-gradient(
+    red,
+    yellow,
+    lime,
+    aqua,
+    blue,
+    magenta,
+    red,
+    white
+  );
 }
 
 .white {
