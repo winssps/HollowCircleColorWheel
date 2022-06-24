@@ -114,8 +114,6 @@ export default (props) => {
     color: hex,
   };
   const handleChange = (interaction, event) => {
-    console.log(interaction);
-
     const result = getWheelValueFromInput(
       { width },
       width - interaction.x,
