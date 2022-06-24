@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { hsvaToHex, hexToHsva } from '@uiw/color-convert';
-import HollowCircle from './HollowCircle';
+import HollowCircle from './components/HollowCircle';
 import './App.css';
 
 const App = () => {

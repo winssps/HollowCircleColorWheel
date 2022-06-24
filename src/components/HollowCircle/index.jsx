@@ -7,7 +7,7 @@ import {
 } from '@uiw/color-convert';
 import Interactive from '@uiw/react-drag-event-interactive';
 import Point from './Point';
-import './HollowCircle.css';
+import './index.css';
 
 const TAU = Math.PI * 2;
 
